@@ -53,7 +53,7 @@ CONTROL_WORDINGS = ["W1"]         # controls get primary wording only
 # vendor x tier lets us separate "architecture" from "model size".
 MODELS = {
     "claude-sonnet-4-6":          dict(vendor="anthropic", tier="mid",   supports_temperature=True),
-    "claude-haiku-4-5-20251001":  dict(vendor="anthropic", tier="small", supports_temperature=True),
+    "claude-haiku-4-5":           dict(vendor="anthropic", tier="small", supports_temperature=True),
     "gpt-5.4-mini":               dict(vendor="openai",    tier="mid",   supports_temperature=True),
     "gpt-5.4-nano":               dict(vendor="openai",    tier="small", supports_temperature=True),
 }
