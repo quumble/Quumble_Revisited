@@ -71,7 +71,9 @@ def openai_generate(model, prompt, temperature, max_tokens, api_key=None, timeou
     body = {
         "model": model,
         "temperature": temperature,
-        "max_tokens": max_tokens,
+        # newer OpenAI models (gpt-5.4-mini/nano) reject max_tokens and require
+        # max_completion_tokens on chat/completions. Anthropic still uses max_tokens.
+        "max_completion_tokens": max_tokens,
         "messages": [{"role": "user", "content": prompt}],
     }
     r = requests.post(url, headers=headers, data=json.dumps(body), timeout=timeout)
