@@ -1,0 +1,2 @@
+# Live API collection only needs requests; everything else is stdlib.
+requests>=2.31
