@@ -1,0 +1,79 @@
+dataset,trial,round_body,soft_texture,lavender_purple,six_legs,humming_vocal,bioluminescence,large_eyes,spiral_tail,object_collecting,mood_color,waddle_gait,shy_gentle,curious,name_from_sound
+Claude (protocol),quumble392.txt,0,1,0,1,0,0,0,0,0,0,1,0,0,0
+Claude (protocol),quumble393.txt,1,1,0,0,0,0,0,0,0,0,0,1,0,0
+Claude (protocol),quumble394.txt,1,1,0,0,1,0,0,0,0,0,1,1,1,0
+Claude (protocol),quumble395.txt,1,1,0,1,1,0,0,0,1,0,1,0,0,0
+Claude (protocol),quumble396.txt,1,1,0,0,1,0,0,0,0,0,0,0,0,0
+Claude (protocol),quumble397.txt,1,1,1,1,1,0,0,0,0,0,1,0,0,0
+Claude (protocol),quumble398.txt,1,1,0,1,1,1,0,0,0,1,1,1,1,0
+Claude (protocol),quumble399.txt,1,1,1,1,1,0,0,0,0,0,1,0,1,0
+Claude (protocol),quumble_conversation 390.txt,1,1,1,1,1,1,0,0,0,0,0,1,0,0
+Claude (protocol),quumble_conversation 391.txt,1,1,0,1,1,1,0,0,0,0,1,0,1,0
+GPT-5.3,quumblegpt1copypasteversion.txt,1,1,1,0,1,1,0,1,1,1,1,0,1,0
+GPT-5.3,quumblegpt2copypasteversion.txt,1,1,0,0,0,1,0,1,0,0,1,1,1,0
+GPT-5.3,quumblegpt3copypasteversion.txt,1,1,0,0,1,1,0,1,1,0,1,0,1,0
+GPT-5.3,quumblegpt4copypasteversion.txt,0,1,1,0,1,1,0,1,1,0,1,0,1,0
+GPT-5.3,quumblegpt5copypasteversion.txt,0,1,1,0,1,0,1,0,1,1,1,1,1,0
+GPT-5.3,quumblegpt6copypasteversion.txt,0,1,1,0,1,0,1,0,1,1,0,1,1,1
+GPT-5.3,quumblegpt7copypasteversion.txt,1,1,1,0,0,1,0,0,1,1,0,1,1,0
+GPT-5.3,quumblegpt8copypasteversion.txt,1,1,0,0,1,1,0,0,1,0,1,1,1,0
+GPT-5.3,quumblegpt9copypasteversion.txt,1,1,1,0,0,1,0,0,1,1,0,1,1,0
+GPT-5.3,quumblegpt10copypasteversion.txt,1,1,0,0,0,1,0,0,1,1,1,1,1,0
+Gemini 3,03.11.26_quumblegemini3text_10.txt,1,1,1,0,1,1,0,0,0,1,0,1,1,0
+Gemini 3,03.11.26_quumblegemini3text_11.txt,1,1,1,0,1,1,0,0,0,0,1,0,1,0
+Gemini 3,03.11.26_quumblegemini3text_12.txt,0,1,1,0,1,1,0,0,0,1,0,1,1,0
+Gemini 3,03.11.26_quumblegemini3text_13.txt,0,1,0,0,1,1,0,0,0,1,0,1,1,0
+Gemini 3,03.11.26_quumblegemini3text_14.txt,1,1,0,0,1,1,0,0,0,0,0,1,1,0
+Gemini 3,03.11.26_quumblegemini3text_15.txt,0,1,0,0,1,1,0,0,0,1,1,0,1,0
+Gemini 3,03.11.26_quumblegemini3text_16.txt,0,1,1,0,1,1,0,0,0,1,0,0,0,0
+Gemini 3,03.11.26_quumblegemini3text_17.txt,0,1,1,0,0,1,0,0,0,0,0,1,0,0
+Gemini 3,03.11.26_quumblegemini3text_18.txt,0,1,0,0,1,1,0,0,0,0,1,1,1,0
+Gemini 3,03.11.26_quumblegemini3text_19.txt,0,1,1,0,0,1,0,0,0,1,0,1,0,0
+Gemini 3,03.11.26_quumblegemini3text_20.txt,0,1,1,0,0,0,0,0,0,1,0,1,0,0
+Gemini 3,03.11.26_quumblegemini3text_8.txt,1,1,0,0,1,0,0,0,0,0,0,1,1,0
+Gemini 3,03.11.26_quumblegemini3text_9.txt,0,1,0,0,1,1,0,0,0,1,0,1,1,0
+Gemini 3,03.11.26_quumblegeminitext_1.txt,0,1,0,0,1,1,0,0,1,1,0,1,1,0
+Gemini 3,03.11.26_quumblegeminitext_2.txt,1,1,0,0,0,1,0,0,0,1,0,1,1,0
+Gemini 3,03.11.26_quumblegeminitext_3.txt,0,1,1,0,1,1,0,0,0,1,0,1,1,0
+Gemini 3,03.11.26_quumblegeminitext_4.txt,0,1,1,0,0,1,0,0,0,1,0,1,0,0
+Gemini 3,03.11.26_quumblegeminitext_5.txt,1,1,1,0,1,1,0,0,0,0,0,1,0,0
+Gemini 3,03.11.26_quumblegeminitext_6.txt,0,1,1,0,1,0,0,0,0,0,0,1,0,0
+Gemini 3,03.11.26_quumblegeminitext_7.txt,1,1,0,0,1,0,0,0,0,1,0,0,1,0
+Mistral,3-12-26_quumbletestmistral_lechat_1.txt,1,1,1,0,1,1,0,0,1,1,0,0,1,0
+Mistral,3-12-26_quumbletestmistral_lechat_10.txt,1,1,1,0,1,1,0,0,1,1,0,1,1,0
+Mistral,3-12-26_quumbletestmistral_lechat_11.txt,1,1,1,0,1,1,0,0,1,1,0,1,1,0
+Mistral,3-12-26_quumbletestmistral_lechat_12.txt,1,1,0,0,0,1,0,0,0,0,0,1,1,0
+Mistral,3-12-26_quumbletestmistral_lechat_13.txt,0,1,0,0,1,1,0,0,1,1,0,1,1,0
+Mistral,3-12-26_quumbletestmistral_lechat_14.txt,1,1,1,0,1,1,0,0,1,1,0,1,1,0
+Mistral,3-12-26_quumbletestmistral_lechat_15.txt,1,1,1,0,1,1,0,0,0,1,0,1,1,0
+Mistral,3-12-26_quumbletestmistral_lechat_16.txt,1,1,0,0,1,1,0,0,1,1,0,1,1,0
+Mistral,3-12-26_quumbletestmistral_lechat_17.txt,1,1,1,0,1,1,0,0,1,1,0,1,1,0
+Mistral,3-12-26_quumbletestmistral_lechat_18.txt,0,1,1,0,1,1,0,0,1,1,0,1,1,0
+Mistral,3-12-26_quumbletestmistral_lechat_19.txt,1,1,1,0,1,1,0,0,1,1,0,1,1,0
+Mistral,3-12-26_quumbletestmistral_lechat_2.txt,1,1,1,0,1,1,0,0,0,1,0,1,1,0
+Mistral,3-12-26_quumbletestmistral_lechat_20.txt,1,1,1,0,1,1,0,0,1,1,0,1,1,0
+Mistral,3-12-26_quumbletestmistral_lechat_3.txt,0,1,0,0,0,1,0,0,1,1,0,1,1,0
+Mistral,3-12-26_quumbletestmistral_lechat_4.txt,1,1,0,0,1,1,0,0,0,1,0,1,1,0
+Mistral,3-12-26_quumbletestmistral_lechat_5.txt,1,1,1,0,1,1,0,0,1,1,0,1,1,0
+Mistral,3-12-26_quumbletestmistral_lechat_6.txt,0,1,1,0,0,1,0,0,1,1,0,1,1,0
+Mistral,3-12-26_quumbletestmistral_lechat_7.txt,1,1,1,0,1,1,0,0,0,1,0,1,1,0
+Mistral,3-12-26_quumbletestmistral_lechat_8.txt,1,1,0,0,1,1,0,0,1,0,0,1,1,0
+Mistral,3-12-26_quumbletestmistral_lechat_9.txt,1,1,0,0,1,1,0,0,0,1,0,1,1,0
+Claude (pressure-cold),pressure_cold_01,1,1,1,0,1,0,0,0,0,0,1,1,0,0
+Claude (pressure-cold),pressure_cold_02,1,1,1,0,1,0,0,0,1,0,1,1,1,0
+Claude (pressure-cold),pressure_cold_03,1,1,1,0,1,1,0,0,1,1,1,1,1,0
+Claude (pressure-cold),pressure_cold_04,1,1,0,0,1,0,0,1,0,0,1,1,1,0
+Claude (pressure-cold),pressure_cold_05,1,1,0,0,1,0,1,0,1,0,1,1,1,0
+Claude (pressure-cold),pressure_cold_06,1,1,0,0,1,0,0,0,0,0,1,1,1,0
+Claude (pressure-cold),pressure_cold_07,1,1,0,0,1,0,0,0,0,0,1,1,0,0
+Claude (pressure-cold),pressure_cold_08,1,1,1,0,1,0,0,1,0,0,1,1,1,0
+Claude (pressure-cold),pressure_cold_09,1,1,0,0,1,0,0,0,0,0,1,1,0,0
+Claude (pressure-cold),pressure_cold_10,0,1,1,0,1,0,0,0,0,0,1,1,1,0
+zikrath (control),zikrath1.txt,0,0,0,0,1,1,0,0,0,0,0,0,1,0
+zikrath (control),zikrath2.txt,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+zikrath (control),zikrath3.txt,0,0,0,1,1,1,0,0,0,0,0,0,0,1
+zikrath (control),zikrath4.txt,0,1,0,0,1,0,0,0,0,0,0,0,1,0
+zikrath (control),zikrath5.txt,0,1,0,0,1,1,0,0,0,0,0,0,1,0
+zikrath (control),zikrath6.txt,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+zikrath (control),zikrath7.txt,0,1,0,0,1,1,0,0,0,0,0,0,1,0
+zikrath (control),zikrath8.txt,0,1,1,0,1,1,0,0,0,1,0,0,1,0

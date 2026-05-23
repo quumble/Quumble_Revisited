@@ -1,0 +1,79 @@
+blind_id,dataset,original_trial
+B001,Mistral,3-12-26_quumbletestmistral_lechat_16.txt
+B002,Mistral,3-12-26_quumbletestmistral_lechat_17.txt
+B003,Mistral,3-12-26_quumbletestmistral_lechat_20.txt
+B004,Claude (protocol),quumble_conversation 390.txt
+B005,Mistral,3-12-26_quumbletestmistral_lechat_2.txt
+B006,Claude (pressure-cold),pressure_cold_09
+B007,Gemini 3,03.11.26_quumblegeminitext_1.txt
+B008,GPT-5.3,quumblegpt6copypasteversion.txt
+B009,Claude (pressure-cold),pressure_cold_02
+B010,Mistral,3-12-26_quumbletestmistral_lechat_3.txt
+B011,Claude (pressure-cold),pressure_cold_08
+B012,Mistral,3-12-26_quumbletestmistral_lechat_19.txt
+B013,Mistral,3-12-26_quumbletestmistral_lechat_1.txt
+B014,zikrath (control),zikrath5.txt
+B015,Mistral,3-12-26_quumbletestmistral_lechat_6.txt
+B016,Gemini 3,03.11.26_quumblegemini3text_13.txt
+B017,Gemini 3,03.11.26_quumblegemini3text_15.txt
+B018,Claude (protocol),quumble399.txt
+B019,Claude (pressure-cold),pressure_cold_01
+B020,Mistral,3-12-26_quumbletestmistral_lechat_7.txt
+B021,Gemini 3,03.11.26_quumblegeminitext_4.txt
+B022,GPT-5.3,quumblegpt9copypasteversion.txt
+B023,Claude (pressure-cold),pressure_cold_06
+B024,GPT-5.3,quumblegpt10copypasteversion.txt
+B025,Gemini 3,03.11.26_quumblegemini3text_10.txt
+B026,Mistral,3-12-26_quumbletestmistral_lechat_11.txt
+B027,Gemini 3,03.11.26_quumblegemini3text_20.txt
+B028,Claude (pressure-cold),pressure_cold_03
+B029,Mistral,3-12-26_quumbletestmistral_lechat_8.txt
+B030,Claude (pressure-cold),pressure_cold_07
+B031,Mistral,3-12-26_quumbletestmistral_lechat_12.txt
+B032,Claude (pressure-cold),pressure_cold_04
+B033,Claude (protocol),quumble394.txt
+B034,GPT-5.3,quumblegpt7copypasteversion.txt
+B035,Mistral,3-12-26_quumbletestmistral_lechat_9.txt
+B036,Gemini 3,03.11.26_quumblegemini3text_12.txt
+B037,Gemini 3,03.11.26_quumblegeminitext_7.txt
+B038,Gemini 3,03.11.26_quumblegemini3text_14.txt
+B039,Claude (protocol),quumble397.txt
+B040,Claude (protocol),quumble398.txt
+B041,Mistral,3-12-26_quumbletestmistral_lechat_15.txt
+B042,zikrath (control),zikrath2.txt
+B043,Claude (protocol),quumble_conversation 391.txt
+B044,Mistral,3-12-26_quumbletestmistral_lechat_18.txt
+B045,Gemini 3,03.11.26_quumblegemini3text_11.txt
+B046,Claude (pressure-cold),pressure_cold_05
+B047,Mistral,3-12-26_quumbletestmistral_lechat_5.txt
+B048,GPT-5.3,quumblegpt1copypasteversion.txt
+B049,Claude (protocol),quumble392.txt
+B050,zikrath (control),zikrath3.txt
+B051,Gemini 3,03.11.26_quumblegeminitext_5.txt
+B052,zikrath (control),zikrath4.txt
+B053,zikrath (control),zikrath8.txt
+B054,Gemini 3,03.11.26_quumblegemini3text_16.txt
+B055,Gemini 3,03.11.26_quumblegeminitext_2.txt
+B056,Mistral,3-12-26_quumbletestmistral_lechat_13.txt
+B057,Mistral,3-12-26_quumbletestmistral_lechat_10.txt
+B058,Mistral,3-12-26_quumbletestmistral_lechat_14.txt
+B059,GPT-5.3,quumblegpt3copypasteversion.txt
+B060,zikrath (control),zikrath6.txt
+B061,Claude (protocol),quumble393.txt
+B062,Gemini 3,03.11.26_quumblegeminitext_6.txt
+B063,Gemini 3,03.11.26_quumblegemini3text_9.txt
+B064,Gemini 3,03.11.26_quumblegemini3text_19.txt
+B065,Gemini 3,03.11.26_quumblegemini3text_17.txt
+B066,zikrath (control),zikrath1.txt
+B067,zikrath (control),zikrath7.txt
+B068,Claude (protocol),quumble396.txt
+B069,Mistral,3-12-26_quumbletestmistral_lechat_4.txt
+B070,GPT-5.3,quumblegpt2copypasteversion.txt
+B071,Claude (pressure-cold),pressure_cold_10
+B072,GPT-5.3,quumblegpt4copypasteversion.txt
+B073,GPT-5.3,quumblegpt8copypasteversion.txt
+B074,Gemini 3,03.11.26_quumblegemini3text_18.txt
+B075,Gemini 3,03.11.26_quumblegemini3text_8.txt
+B076,Gemini 3,03.11.26_quumblegeminitext_3.txt
+B077,Claude (protocol),quumble395.txt
+B078,GPT-5.3,quumblegpt5copypasteversion.txt
