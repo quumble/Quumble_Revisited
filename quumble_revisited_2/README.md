@@ -76,9 +76,16 @@ python harness/test_harness.py
 python harness/run_collection.py --mock --limit 20      # writes fake trials to data/raw/
 
 # 2. LIVE collection (real calls, real spend) — needs keys
+#    bash / macOS / Linux:
 export ANTHROPIC_API_KEY=...
 export OPENAI_API_KEY=...
+#    Windows PowerShell (keys are per-terminal — set them in EVERY window you run from):
+#    $env:ANTHROPIC_API_KEY="..."
+#    $env:OPENAI_API_KEY="..."
 python harness/run_collection.py                        # resume-safe; re-run to continue
+#    NOTE: collection resumes by skipping any trial whose JSON already exists in
+#    data/raw/. To collect a FRESH corpus, empty data/raw/ first — otherwise an
+#    existing corpus (yours or a cloned one) is treated as done and nothing is called.
 
 # 3. analyze
 python analysis/extract_features.py                     # -> analysis/feature_matrix.csv
@@ -104,8 +111,13 @@ python analysis/agreement.py                            # -> human-vs-script kap
 
 ## Status
 
-Harness + analysis are written and **pass an end-to-end mock test**. No live data
-collected yet — that requires running `run_collection.py` with your own API keys.
+Harness + analysis are written and **pass an end-to-end mock test**. A live
+2000-trial corpus has been collected and analyzed; derived outputs
+(`analysis/feature_matrix.csv`, `convergence_by_cell.csv`, `contrasts.md`) are
+committed. Raw per-trial JSONs are **not** committed (regenerable from code +
+keys; see the fresh-collection note in Quickstart). The blinded human-coding
+pass gates the low-confidence/semantic features — run it before treating those
+contrasts as load-bearing.
 Model strings current as of May 2026; re-verify before a live run, as vendors
 deprecate strings (see pass-1 lessons).
 
