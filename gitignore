@@ -1,0 +1,26 @@
+# --- Raw collected data: regenerable from code + API keys, NOT committed ---
+# Thousands of per-trial JSONs (and any consolidated jsonl) bloat the repo and
+# its permanent history. Distribute a corpus as a separate zipped artifact.
+**/data/raw/
+**/data/manifest.json
+*.jsonl
+
+# NOTE: derived analysis outputs (feature_matrix.csv, convergence_by_cell.csv,
+# contrasts.md) are INTENTIONALLY tracked — they are the provenance behind the
+# committed results. Do not add them here.
+
+# --- Blinded human-coding intermediates (regenerate per coder) ---
+**/analysis/blinded_worksheet.csv
+**/analysis/blinded_KEY.csv
+**/analysis/human_codes.csv
+
+# --- Secrets: never commit keys ---
+.env
+*.key
+
+# --- Python / OS noise ---
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+.ipynb_checkpoints/
